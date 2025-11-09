@@ -1,4 +1,4 @@
-package ru.yandex.practicum.filmorate.exception.film;
+package ru.yandex.practicum.filmorate.exception;
 
 public class TooEarlyReleaseDateException extends RuntimeException {
     public TooEarlyReleaseDateException(String message) {

@@ -1,4 +1,4 @@
-package ru.yandex.practicum.filmorate.exception.film;
+package ru.yandex.practicum.filmorate.exception;
 
 public class TheNameCannotBeEmptyException extends RuntimeException {
     public TheNameCannotBeEmptyException(String message) {

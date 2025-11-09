@@ -9,7 +9,6 @@ import java.util.Optional;
 public class FilmorateApplication {
 
 	public static void main(String[] args) {
-        System.out.println(Optional.empty());
 		SpringApplication.run(FilmorateApplication.class, args);
 	}
 

@@ -1,4 +1,4 @@
-package ru.yandex.practicum.filmorate.exception.user;
+package ru.yandex.practicum.filmorate.exception;
 
 public class IncorrectLoginFormatException extends RuntimeException {
     public IncorrectLoginFormatException(String message) {
